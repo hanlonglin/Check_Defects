@@ -1,0 +1,8 @@
+/Release
+Debug
+Win32
+zip_unzip
+*.filters
+*.user
+*.db
+*.opendb
